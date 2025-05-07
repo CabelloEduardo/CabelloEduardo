@@ -40,4 +40,8 @@ Este perfil README.md es mi primer proyecto. Aquí muestro parte de mi identidad
 
 ---
 
-<!-- Puedes añadir más secciones como proyectos futuros, logros, etc. cuando avances -->
+## 🚀 Roadmap de aprendizaje
+
+Estoy trabajando activamente en varios proyectos pequeños para mejorar mis habilidades. Aquí puedes ver mi progreso:
+
+➡️ [Ver mi lista de proyectos en progreso](https://github.com/CabelloEduardo/learning-roadmap)
